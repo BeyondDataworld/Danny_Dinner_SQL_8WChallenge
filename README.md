@@ -18,13 +18,14 @@ Informing decisions on expanding the existing customer loyalty program.
 Danny requires assistance in generating basic datasets for easy data inspection by his team without using SQL.
 
 # Provided Datasets:
-Sales dataset
-Menu dataset
-Members dataset
+- Sales
+- Menu
+- Members
 
 # Privacy Measures:
 Due to privacy concerns, Danny has shared a sample of the overall customer data.
 
 # Expectations:
 Danny anticipates fully functioning SQL queries based on the provided examples to help him address his questions and make informed decisions.
+
 
